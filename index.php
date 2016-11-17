@@ -3,7 +3,7 @@
 <head>
 
     <?php require_once("head-utils.php");?>
-    <?php require_once("lib/navbar.php");?>
+    <?php require_once("navbar.php");?>
 
     <style>
         body{
@@ -12,10 +12,6 @@
         #container{
 
         }
-
-
-
-
 
 
         /*JUMBOTRO*/
