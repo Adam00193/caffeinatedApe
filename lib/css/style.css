@@ -1,0 +1,25 @@
+#container{
+
+}
+
+
+/*JUMBOTRO*/
+.jumbotron{
+    height: 310px;
+    background-color: lightgray;
+}
+.jtimg{
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+}
+.jth1{
+    margin-top: 75px;
+    margin-bottom: 0;
+}
+.jtp{
+    margin-left: 10px;
+}
+#jtbtn{
+
+}

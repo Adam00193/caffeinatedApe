@@ -1,4 +1,5 @@
-
-
-<link rel="stylesheet" type="text/css" href="lib/offline/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="lib/offline/font-awesome-4.7.0/">
+<link rel="stylesheet" href="lib/css/animate.css">
+<link rel="stylesheet" href="lib/css/font-awesome.css">
+<link rel="stylesheet" href="lib/css/bootstrap.css">
+<link rel="stylesheet" href="lib/css/cover.css">
+<link rel="stylesheet" href="lib/css/style.css">
