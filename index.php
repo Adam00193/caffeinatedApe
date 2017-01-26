@@ -39,19 +39,5 @@
     </div>
   </div>
 
-  <!-- <div class="container" id="container">
-    <div class="jumbotron">
-      <div class="col-md-3">
-        <img class="jtimg" alt="IMAGE UNAVAILABLE" src="lib/imgs/caffeinatedApe.png">
-      </div>
-      <div class="col-md-9">
-        <h1 class="jth1">Caffeinated Ape</h1>
-        <br>
-        <p class="jtp">Mobile Cafe Shop</p>
-        <a class="btn btn-primary" id="jtbtn" href="#" role="button">Learn more</a>
-      </div>
-    </div>
-    <h1 class="bh1"></h1>
-  </div> -->
 </body>
 </html>

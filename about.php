@@ -2,7 +2,7 @@
 <html>
 <head>
 
-    <?php require_once("navbar.php");?>
+
     <?php require_once("lib/head-utils.php");?>
 </head>
 <body>
@@ -23,8 +23,15 @@
                     </div>
                   </div>
                 </div>
-
               </div>
+                    <div class="container">
+                      <h5 class="about">
+                        Owned by cousins Kody Jones and Roberto Lee, Caffineated Ape came from an idea of bringing something
+                        "New and fresh". "I had a small idea to open a coffee shop"
+                        Jones said in an interview with Daily Times," and it went on from there". They then went on to buy
+                        trailer and supplies that they needed to sell coffee.
+                      </h5>
+                    </div>
               <div class="mastfoot">
                 <div class="inner">
                   <p>Built for <a href="#">Caffeinated Ape &copy;</a>, by <a href="#">Chieftains Coders &copy;</a>.</p>

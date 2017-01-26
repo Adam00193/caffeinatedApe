@@ -2,7 +2,7 @@
 <html>
 <head>
 
-    <?php require_once("navbar.php");?>
+    
     <?php require_once("lib/head-utils.php");?>
 </head>
 <body>
@@ -23,7 +23,7 @@
                     </div>
                   </div>
                 </div>
-
+                <h1>Contact</h1>
               </div>
               <div class="mastfoot">
                 <div class="inner">

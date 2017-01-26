@@ -2,7 +2,7 @@
 <html>
 <head>
 
-    <?php require_once("navbar.php");?>
+  
     <?php require_once("lib/head-utils.php");?>
 </head>
 <body>
@@ -34,6 +34,9 @@
                   <h4>Macchiato-$3.50</h4>
                   <h4>Pumpkin Spice-$3.50</h4>
                   <h4>Soy Milk-¢.50 Each</h4>
+                  <h3>On Tuesdays and Thursdays</h3>
+                  <h4>Burritos</h4>
+                  <h4>Pasteries</h4>
               </div>
               <div class="mastfoot">
                 <div class="inner">
